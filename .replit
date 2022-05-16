@@ -1,0 +1,2 @@
+language = "java11"
+run = "mvn clean package && java -jar target/inventory-management-0.0.1-SNAPSHOT.jar"
